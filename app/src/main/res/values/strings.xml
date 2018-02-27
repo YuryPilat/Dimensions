@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dimensions</string>
+    <string name="toast_text">Нажмите на портрет для описания героя</string>
+    <string name="prefsName">MainSettings</string>
+    <string name="aboutFemale"> Жестокая и хладнокровная убийца дельфинят. Разговаривает по-немецки</string>
+    <integer name="card_flip_duration_full">1000</integer>
+    <integer name="card_flip_duration_half">500</integer>
+    <string name="chosen_hero_qid"></string>
+    <string name="chooseHeroText">Пожалуйста, выберите персонажа для игры</string>
+    <string name="selectHeroText">Пожалуйста, выберите персонажа для игры</string>
+    <string name="Choose">Выбрать</string>
+    <string name="Back">Назад</string>
+
+    <string name="COLUMN_ID">_id</string>
+    <string name="COLUMN_QID">qid</string>
+    <string name="COLUMN_ANID">anid</string>
+    <string name="COLUMN_NEXTQID">nextquid</string>
+    <string name="COLUMN_BACKGRND">background</string>
+    <string name="COLUMN_QUESTIONS">questions</string>
+    <string name="COLUMN_ANSWER">answer</string>
+    <string name="DB_CREATE_TABLE1">quest_table</string>
+    <string name="DB_CREATE_TABLE2">answ_table</string>
+    <string name="DB_CREATE_TABLE3">bounds_table</string>
+    <string name="FIRSTRUN">firstrun</string>
+    <string name="FIRSTANIM">firstanim</string>
+    <string name="START_BUTTON">Начать</string>
+    <string name="CONTINUE">Продолжить</string>
+    <string name="START_OVER">Начать заново</string>
+
+</resources>
